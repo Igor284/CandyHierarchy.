@@ -1,0 +1,1 @@
+C:\Users\TurboPC\source\repos\CandyHierarchy\InterfaceAndAbstract\obj\Debug\InterfaceAndAbstract.csproj.CoreCompileInputs.cache

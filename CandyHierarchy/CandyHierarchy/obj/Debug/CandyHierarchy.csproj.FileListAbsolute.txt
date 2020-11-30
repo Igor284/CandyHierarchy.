@@ -1,0 +1,7 @@
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\obj\Debug\CandyHierarchy.csprojAssemblyReference.cache
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\obj\Debug\CandyHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\bin\Debug\CandyHierarchy.exe.config
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\bin\Debug\CandyHierarchy.exe
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\bin\Debug\CandyHierarchy.pdb
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\obj\Debug\CandyHierarchy.exe
+C:\Users\TurboPC\source\repos\CandyHierarchy\CandyHierarchy\obj\Debug\CandyHierarchy.pdb
